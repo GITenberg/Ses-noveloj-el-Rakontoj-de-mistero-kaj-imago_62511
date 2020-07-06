@@ -1,11 +1,14 @@
 _repo: Ses-noveloj-el-Rakontoj-de-mistero-kaj-imago_62511
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Milward, Albert Frank
     alias: Milward, A. Frank
     gutenberg_agent_id: '51980'
     url: http://www.gutenberg.org/2009/agents/51980
+covers:
+- cover_type: archival
+  image_path: 62511-h/images/cover.jpg
 creator:
   author:
     agent_name: Poe, Edgar Allan
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/481
     wikipedia: https://en.wikipedia.org/wiki/Edgar_Allan_Poe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62511#Ses-noveloj-el-Rakontoj-de-mistero-kaj-imago
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2020-06-28'
 gutenberg_type: Text
