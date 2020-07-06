@@ -1,0 +1,37 @@
+_repo: Ses-noveloj-el-Rakontoj-de-mistero-kaj-imago_62511
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Milward, Albert Frank
+    alias: Milward, A. Frank
+    gutenberg_agent_id: '51980'
+    url: http://www.gutenberg.org/2009/agents/51980
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2020-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62511'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Horror tales'
+- !lcsh 'American fiction -- Translations into Esperanto'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'Antaŭparolo -- Liĝeja -- La ovala portreto -- La barelo de amontilado
+  -- Kelkaj vortoj kun mumio -- La homo, kiu troviĝis eluzita -- La silento: Fabelo.'
+title: Ses noveloj el "Rakontoj de mistero kaj imago"
+url: http://www.gutenberg.org/ebooks/62511
